@@ -1,0 +1,17 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Optimization
+pulp==3.3.0     # Main solver for MILP and LP relaxation
+
+# Metaheuristics
+deap==1.4.1
+
+# Utilities
+tqdm==4.66.5
+networkx==3.3
+
+# Development
+pytest==8.3.2
